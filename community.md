@@ -15,9 +15,9 @@ I am a board member, board secretary, and projects committee chair of [Indy Hung
 
 Please check out IHN's [Community Compass](https://www.communitycompass.app/) app to help find food and nutrition assistance in Indiana.
 
-<div style="width:50px; height:50px">
+
 ![Community Compass](./assets/img/communitycompass.png)
-</div>
+
 
 ## Marion County Farm Bureau
 
