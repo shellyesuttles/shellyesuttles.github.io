@@ -21,9 +21,9 @@ author: Shellye Suttles
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/suttles-shellye.html"
 
 ################
