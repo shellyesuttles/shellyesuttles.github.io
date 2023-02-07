@@ -10,7 +10,7 @@ In 2020-21, IU Sustainable Food Systems Science partnered with Butler University
 
 ![FCR317 Logo](assets/img/fcr_logo2.png)
 
-The Food Comida Rawl 317 project has served as a connector and a way for Indianapolis and Marion County food system stakeholders to understand the diversity of eaters, and experiences in Indianapolis. Using social science based data collection and analysis, Food 317 will be a hub of information gathering, sharing and engagement for individuals and organizations in our food system.
+The Food Comida Rawl 317 project has served as a connector and a way for  food system stakeholders to understand the diversity of eaters and experiences in Indianapolis and Marion County. Using social science based data collection and analysis, Food Comida Rawl 317 served as a hub of information gathering, sharing, and engagement for individuals and organizations in the local food system.
 
 The project was funded by the City of Indianapolis's Office of Public Health & Safety.
 
