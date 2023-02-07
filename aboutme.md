@@ -19,7 +19,7 @@ I very much enjoyed my agricultural volunteer service with Peace Corps and joine
 
 My master’s thesis focused on gender differences in business goals and management strategies of family business managers in the United States and Canada. After completion of my master’s degree, I continued in the department’s doctoral program as a United States Department of Agriculture (USDA) National Needs Fellow in the Economics of Alternative Energy. 
 
-![IMAU Class](assets/img/Mongolia9.jpg)
+![IMAU Class](assets/img/mongolia9.JPG)
 
 After completing my doctoral dissertation, I joined the USDA’s Economic Research Service (ERS) as an agricultural economist in the Rural and Resource Economics Division. At ERS, my research focused on food and agricultural policy pertaining to local food systems, energy, and climate change. 
 
