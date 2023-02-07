@@ -22,8 +22,8 @@ title: Shellye Suttles
 navbar-links:
   About Me: "aboutme"
   My Work:
-    - Community: "https://beautifuljekyll.com"
-    - Research: "https://www.markdowntutorial.com/"
+    - Community: "community"
+    - Research: "research"
   IU Faculty Page: "https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/suttles-shellye.html"
 
 ################
