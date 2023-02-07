@@ -14,4 +14,4 @@ The Food Comida Rawl 317 project has served as a connector and a way for  food s
 
 The project was funded by the City of Indianapolis's Office of Public Health & Safety.
 
-For more information on the project, please visit: http://foodcomidarawl317.com/
+For more information on the project, please visit: [http://foodcomidarawl317.com/](http://foodcomidarawl317.com/)
