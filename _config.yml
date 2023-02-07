@@ -13,7 +13,7 @@
 title: Shellye Suttles
 
 # Your name to show in the footer
-author: Shellye Suttles
+# author: Shellye Suttles
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,9 +21,9 @@ author: Shellye Suttles
 
 navbar-links:
   About Me: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+  My Work:
+    - Community: "https://beautifuljekyll.com"
+    - Research: "https://www.markdowntutorial.com/"
   IU Faculty Page: "https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/suttles-shellye.html"
 
 ################
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "shellyesuttles.github.io"
+# url-pretty: "shellyesuttles.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
