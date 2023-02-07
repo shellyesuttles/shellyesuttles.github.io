@@ -15,7 +15,7 @@ After graduation, I joined the Peace Corps as a sustainable agriculture and live
 
 I very much enjoyed my agricultural volunteer service with Peace Corps and joined the master’s program in Purdue’s Department of Agricultural Economics to further my knowledge of agricultural issues with an emphasis on economics. 
 
-My master’s thesis focused on gender differences in business goals and management strategies of family business managers in the United States and Canada. After completion of my master’s degree, I continued in the department’s doctorate program as a United States Department of Agriculture (USDA) National Needs Fellow in the Economics of Alternative Energy. 
+My master’s thesis focused on gender differences in business goals and management strategies of family business managers in the United States and Canada. After completion of my master’s degree, I continued in the department’s doctoral program as a United States Department of Agriculture (USDA) National Needs Fellow in the Economics of Alternative Energy. 
 
 After completing my doctoral dissertation, I joined the USDA’s Economic Research Service (ERS) as an agricultural economist in the Rural and Resource Economics Division. At ERS, my research focused on food and agricultural policy pertaining to local food systems, energy, and climate change. 
 
