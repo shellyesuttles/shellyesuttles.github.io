@@ -6,7 +6,7 @@ title: Community Engagement
 
 ## Felege Hiywot Center
 
-I am board member and finance chair of the [Felege Hiywot Center (FHC)](https://fhcenter.org/). FHC is a youth-led urban farm in Indianapolis, Indiana.
+I am a board member and finance chair of the [Felege Hiywot Center (FHC)](https://fhcenter.org/). FHC is a youth-led urban farm in Indianapolis, Indiana.
 
 
 ## Indy Hunger Network
