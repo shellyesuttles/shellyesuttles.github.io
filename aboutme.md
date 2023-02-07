@@ -4,7 +4,7 @@ title: About me
 
 ---
 
-My name is Shellye Suttles. I am an agricultural economist who enjoys both community-engaged food system research and using computable general equilibrium (CGE) models to study food and agricultural issues.
+My name is Shellye Suttles. I am an agricultural economist who enjoys both community-engaged local food system research and using computable general equilibrium (CGE) models to study global food and agricultural issues.
 
 
 ### My story
