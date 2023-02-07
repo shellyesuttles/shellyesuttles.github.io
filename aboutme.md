@@ -11,7 +11,9 @@ My name is Shellye Suttles. I am an agricultural economist who enjoys both commu
 
 I was born and raised in Los Angeles, California. I attended the University of Southern California as an undergraduate student and completed a bachelor’s degree in Environmental Studies Biology. 
 
-After graduation, I joined the Peace Corps as a sustainable agriculture and livestock volunteer in Santa María Visitación, Sololá, Guatemala working in conjunction with Children’s Fund. I very much enjoyed my agricultural volunteer service with Peace Corps and joined the master’s program in Purdue’s Department of Agricultural Economics to further my knowledge of agricultural issues with an emphasis on economics. 
+After graduation, I joined the Peace Corps as a sustainable agriculture and livestock volunteer in Santa María Visitación, Sololá, Guatemala working in conjunction with Children’s Fund. 
+
+I very much enjoyed my agricultural volunteer service with Peace Corps and joined the master’s program in Purdue’s Department of Agricultural Economics to further my knowledge of agricultural issues with an emphasis on economics. 
 
 My master’s thesis focused on gender differences in business goals and management strategies of family business managers in the United States and Canada. After completion of my master’s degree, I continued in the department’s doctorate program as a United States Department of Agriculture (USDA) National Needs Fellow in the Economics of Alternative Energy. 
 
