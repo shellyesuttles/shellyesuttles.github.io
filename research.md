@@ -4,7 +4,7 @@ title: Research
 ---
 
 
-## City of Indianapolis Food System
+## Indianapolis Food System
 
 In 2020-21, IU Sustainable Food Systems Science partnered with Butler University and CollaboXD to develop a 25-year food plan for the City of Indianapolis. Given the COVID-19 pandemic, the project moved to virtual community engagement, data collection, and reporting. The largely virtual effort was branded as Food Comida Rawl 317.
 
