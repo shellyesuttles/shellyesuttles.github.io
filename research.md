@@ -15,7 +15,7 @@ Published research:
 - [Food and Agricultural Transportation Challenges Amid the COVID-19 Pandemic](https://www.choicesmagazine.org/choices-magazine/theme-articles/covid-19-and-the-agriculture-industry-labor-supply-chains-and-consumer-behavior/food-and-agricultural-transportation-challenges-amid-the-covid-19-pandemic) (2020)
 - [The Electronic Logging Device Mandate and the Cost for Refrigerated Citrus](https://edis.ifas.ufl.edu/publication/FE1086) (2020)
 
-
+<br>
 
 ## Indianapolis Food Policy Plan
 
