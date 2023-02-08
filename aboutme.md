@@ -13,7 +13,7 @@ I was born and raised in Los Angeles, California. I attended the University of S
 
 After graduation, I joined the Peace Corps as a sustainable agriculture and livestock volunteer in Santa María Visitación, Sololá, Guatemala working in conjunction with Children’s Fund. 
 
-![Trisha & Shellye](assets/img/trisha_shellye.jpg#center)
+->![Trisha & Shellye](assets/img/trisha_shellye.jpg#center)<-
 
 I very much enjoyed my agricultural volunteer service with Peace Corps and joined the master’s program in Purdue’s Department of Agricultural Economics to further my knowledge of agricultural issues with an emphasis on economics. 
 
