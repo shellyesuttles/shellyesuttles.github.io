@@ -10,6 +10,7 @@ In December 2019, the U.S. Federal Motor Carrier Safety Administration mandated 
 ![Trucker, corn, and chicken](assets/img/chicken_truck.jpg)
 *Illustration courtesy of [Anita B.](https://www.anitabilan.com/)*
 
+Published research:
 - [Transportation Safety Regulations via the Electronic Logging Device Mandate Can Affect Fresh Produce Shipment Costs](https://www.choicesmagazine.org/choices-magazine/submitted-articles/transportation-safety-regulations-via-the-electronic-logging-device-mandate-can-affect-fresh-produce-shipment-costs) (2021)
 - [Food and Agricultural Transportation Challenges Amid the COVID-19 Pandemic](https://www.choicesmagazine.org/choices-magazine/theme-articles/covid-19-and-the-agriculture-industry-labor-supply-chains-and-consumer-behavior/food-and-agricultural-transportation-challenges-amid-the-covid-19-pandemic) (2020)
 - [The Electronic Logging Device Mandate and the COst for Refrigerated Citrus](https://edis.ifas.ufl.edu/publication/FE1086) (2020)
