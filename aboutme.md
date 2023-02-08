@@ -25,6 +25,4 @@ After completing my doctoral dissertation, I joined the USDA’s Economic Resear
 
 Upon returning to Indiana, I felt it was important to become involved in food and agricultural issues beyond academic research and joined the City of Indianapolis’s Office of Public Health and Safety as Food Policy and Program Coordinator. 
 
-![](assets/img/lcg2.jpg)
-
 After my informative experience as a local food policy practitioner with the City of Indianapolis, I returned to food system research at Indiana University Bloomington (IUB). I began my time at IUB at the Ostrom Workshop's Sustainable Food Systems Science as an assistant research scientist. I am currently an assistant professor with the O'Neill School of Public & Environmental Affairs (SPEA).
