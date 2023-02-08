@@ -5,7 +5,7 @@ title: Research
 
 ## Agricultural Transportation
 
-In December 2019, the U.S. Federal Motor Carrier Safety Administration mandated electronic logging devices (ELDs) in most commercial motor vehicles. The mandate's goal was to better enforce consequences for drivers driving beyond the hours-of-service limits to deliver shipments faster. We have been exploring the ELD mandate's impact on agricultural shipments, particularly highly perishable refrigerated agricultural products.
+In December 2019, the U.S. Federal Motor Carrier Safety Administration mandated electronic logging devices (ELDs) in most commercial motor vehicles. The mandate's goal is to better enforce consequences for drivers driving beyond the hours-of-service limits to deliver shipments faster. We have been exploring the ELD mandate's impact on agricultural shipments, particularly highly perishable refrigerated agricultural products.
 
 ![Trucker, corn, and chicken](assets/img/chicken_truck.jpg)
 *Illustration courtesy of [Anita Bilan](https://www.anitabilan.com/)*
