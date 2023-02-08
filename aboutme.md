@@ -19,12 +19,12 @@ I very much enjoyed my agricultural volunteer service with Peace Corps and joine
 
 My master’s thesis focused on gender differences in business goals and management strategies of family business managers in the United States and Canada. After completion of my master’s degree, I continued in the department’s doctoral program as a United States Department of Agriculture (USDA) National Needs Fellow in the Economics of Alternative Energy. 
 
-<img src="assets/img/mongolia9.JPG" width="350" height="200"/>
+![IMAU class](assets/img/mongolia9.JPG)
 
 After completing my doctoral dissertation, I joined the USDA’s Economic Research Service (ERS) as an agricultural economist in the Rural and Resource Economics Division. At ERS, my research focused on food and agricultural policy pertaining to local food systems, energy, and climate change. 
 
 Upon returning to Indiana, I felt it was important to become involved in food and agricultural issues beyond academic research and joined the City of Indianapolis’s Office of Public Health and Safety as Food Policy and Program Coordinator. 
 
-<img src="assets/img/lcg2.jpg" width="200" height="200"/>
+![](assets/img/lcg2.jpg)
 
 After my informative experience as a local food policy practitioner with the City of Indianapolis, I returned to food system research at Indiana University Bloomington (IUB). I began my time at IUB at the Ostrom Workshop's Sustainable Food Systems Science as an assistant research scientist. I am currently an assistant professor with the O'Neill School of Public & Environmental Affairs (SPEA).
