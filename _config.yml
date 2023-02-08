@@ -20,8 +20,8 @@ title: Shellye Suttles
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  My Work:
+  About: "aboutme"
+  Projects:
     - Community: "community"
     - Research: "research"
 #  Me @ O'Neill: "https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/suttles-shellye.html"
