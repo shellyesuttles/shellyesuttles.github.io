@@ -15,6 +15,8 @@ After graduation, I joined the Peace Corps as a sustainable agriculture and live
 
 ![Trisha & Shellye](assets/img/trisha_shellye.jpg)
 
+![Sara & Shellye & Ruth](assets/img/ruth_sara2.jpg)
+
 I very much enjoyed my agricultural volunteer service with Peace Corps and joined the master’s program in Purdue’s Department of Agricultural Economics to further my knowledge of agricultural issues with an emphasis on economics. 
 
 My master’s thesis focused on gender differences in business goals and management strategies of family business managers in the United States and Canada. After completion of my master’s degree, I continued in the department’s doctoral program as a United States Department of Agriculture (USDA) National Needs Fellow in the Economics of Alternative Energy. 
