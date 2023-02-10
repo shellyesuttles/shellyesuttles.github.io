@@ -25,7 +25,7 @@ My master’s thesis focused on gender differences in business goals and managem
 
 After completing my doctoral dissertation on dedicated energy crop production, I joined the USDA’s Economic Research Service (ERS) as an agricultural economist in the Rural and Resource Economics Division. At ERS, my research focused on food and agricultural policy pertaining to local food systems, energy, and climate change.
 
-![2010 Local Foods Report](assets/img/locafoods.png)
+![2010 Local Foods Report](assets/img/locafoods1.png)
 
 Upon returning to Indiana, I felt it was important to become involved in food and agricultural issues beyond academic research and joined the City of Indianapolis’s Office of Public Health and Safety as Food Policy and Program Coordinator. 
 
