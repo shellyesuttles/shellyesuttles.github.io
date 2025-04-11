@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: researchpage
 title: Research
 ---
 <center>My name is Shellye. I study food and agriculture.</center>
@@ -13,7 +13,7 @@ Duncan, D., Navarro Ulloa, L. and S. Suttles. (2025). “The Role of the Charita
 
 <br/>
 
-<center><img src="./assets/img/shellye-illustrated-smallest.jpg" alt="Shellye"></center>
+<img src="./assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
 
 <br/>
 
