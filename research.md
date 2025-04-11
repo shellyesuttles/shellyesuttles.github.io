@@ -15,7 +15,6 @@ Duncan, D., Navarro, L. and S. Suttles. (2025). “The Role of the Charitable Fo
 <center>
 <img src="/assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
 </center>
-<br/>
 
 Suttles, S. and R.D. Sands. (2024). “Where there is no law: The potential global impacts of improving food consumption and reducing food waste.” Indiana Journal of Global Legal Studies. 31(2):205-228.
 
@@ -40,6 +39,10 @@ Robinson, J.M., Mzali, L., Knudsen, D., Farmer, J., Spiewak, R., Suttles, S., Bu
 Walters, L., Wade, T. and S. Suttles. (2020). “Food and Agricultural Transportation Challenges Amid the COVID-19 Pandemic.” Choices. 35(3): September 2020.
 
 Fernhaber, S., Wada, T., Napier, P. and S. Suttles. (2019). “Engaging Diverse Community Stakeholders to Co-create Solutions in Food Deserts: A Design-thinking Approach.” Journal of Public Affairs. 19(3): August 2019.
+
+<center>
+<img src="/assets/img/mushroom_003.jpg" alt="Mushroom and equation">
+</center>
 
 Sands, R., Malcolm, S., Suttles, S., and E. Marshall. (2017). “Dedicated Energy Crops and Competition for Agricultural Land.” USDA Economic Research Service. Economic Research Report No. 223 (ERR-223). 66 pp, January 2017.
 
