@@ -3,11 +3,13 @@ layout: page
 title: Research
 ---
 
-My name is Shellye. I study agriculture, food systems, and food security.
+My name is Shellye. I study food and agriculture.
 
 
 ### My Publications
 Duncan, D., Navarro Ulloa, L. and S. Suttles. “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134.  https://doi.org/10.1002/jaa2.70006
+
+<center><img src="./assets/img/Shellye-illustrated.jpg" alt="Trucker, corn, and chicken"></center>
 
 Suttles, S. and R.D. Sands. (2024). “Where there is no law: The potential global impacts of improving food consumption and reducing food waste.” Indiana Journal of Global Legal Studies. 31(2):205-228.
 
@@ -21,11 +23,11 @@ Babb, A.M., Suttles, S.A., Daellenbach, I., DuPilka, J.H., and D.C. Knudsen. (20
 
 Biggs, H., Suttles, S. and S. Bardzell. (2023). “Redlining Maps and Terrains of Sustainability: Interdisciplinary Mapping of Racialized Redlining to Present-Day Sustainability Agendas in HCI.” CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. April 2023. Article No.: 141. 1–18. https://doi.org/10.1145/3544548.3581491 
 
-7. Baldos, U.L.C., Chepeliev, M., Cultice, B., Huber, M., Meng, S., Ruane, A.C., Suttles, S. & D. van der Mensbrugghe. (2023). “Global-to-local-to-global interactions and climate change.” Environmental Research Letters. 18(5), 053002.
+Baldos, U.L.C., Chepeliev, M., Cultice, B., Huber, M., Meng, S., Ruane, A.C., Suttles, S. & D. van der Mensbrugghe. (2023). “Global-to-local-to-global interactions and climate change.” Environmental Research Letters. 18(5), 053002.
 
-6. Sands, R. and S. Suttles. (2022). “World Agricultural Baselines to 2050.”  Applied Economic Perspectives and Policy. July 2022. Link
+Sands, R. and S. Suttles. (2022). “World Agricultural Baselines to 2050.”  Applied Economic Perspectives and Policy. July 2022.
 
-5. Wade, T., Suttles, S. and L.M. Walters. (2021). “How Might the Electronic Logging Device Mandate Affect Fresh Produce Shipments and Costs?” Choices. 36(3): September 2021. Link
+Wade, T., Suttles, S. and L.M. Walters. (2021). “How Might the Electronic Logging Device Mandate Affect Fresh Produce Shipments and Costs?” Choices. 36(3): September 2021.
 
 Robinson, J.M., Mzali, L., Knudsen, D., Farmer, J., Spiewak, R., Suttles, S., Burris, M., Shattuck, A., Valiant, J. and A. Babb. (2021). “Food after the COVID-19 Pandemic and the Case for Change Posed by Alternative Food: A Case Study of the American Midwest.” Global Sustainability. February 2021.
 
