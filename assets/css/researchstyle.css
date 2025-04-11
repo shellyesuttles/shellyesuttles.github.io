@@ -24,6 +24,7 @@ body {
   {% endif %}
   overflow-wrap: break-word;
   background: #e9e1d7;
+  brand-color: #e9e1d7;
 }
 p {
   line-height: 1.5;
