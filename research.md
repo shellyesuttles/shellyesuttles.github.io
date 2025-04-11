@@ -2,7 +2,7 @@
 layout: researchpage
 title: Research
 ---
-<center>My name is Shellye. I study food and agriculture.</center>
+<center>I'm Shellye. I study food and agriculture.</center>
 
 
 <br/>
