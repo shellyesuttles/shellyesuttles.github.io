@@ -15,7 +15,7 @@ html {
 body {
   font-family: 'IM Fell DW Pica', serif;
   font-size: 1.125rem;
-  color: {{ site.text-col | default: "#404040" }};
+  color: {{ site.text-col | default: "#164a63" }};
   position: relative;
   background-color: {{ site.page-col | default: "#e9e1d7" }};
   {% if site.page-img %}
