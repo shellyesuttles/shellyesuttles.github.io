@@ -9,7 +9,7 @@ title: Research
 
 
 ### My Publications
-Duncan, D., Navarro Ulloa, L. and S. Suttles. (2025). “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134.  https://doi.org/10.1002/jaa2.70006
+Duncan, D., Navarro, L. and S. Suttles. (2025). “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134.  https://doi.org/10.1002/jaa2.70006
 
 <br/>
 <center>
