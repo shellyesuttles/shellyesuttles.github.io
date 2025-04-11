@@ -13,7 +13,7 @@ Duncan, D., Navarro Ulloa, L. and S. Suttles. (2025). “The Role of the Charita
 
 <br/>
 
-<img src="./assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
+<img src="/assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
 
 <br/>
 
