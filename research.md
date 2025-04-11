@@ -1,5 +1,5 @@
 ---
-layout: researchpage
+layout: minimal
 title: Research
 ---
 <center>My name is Shellye. I study food and agriculture.</center>
