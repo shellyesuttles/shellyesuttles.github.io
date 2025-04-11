@@ -2,12 +2,11 @@
 layout: researchpage
 title: Research
 ---
-
-My name is Shellye. I study food and agriculture.
-
+<center>My name is Shellye. I study food and agriculture.</center>
 
 ### My Publications
 Duncan, D., Navarro Ulloa, L. and S. Suttles. “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134.  https://doi.org/10.1002/jaa2.70006
+
 
 <center><img src="./assets/img/shellye-illustrated-small.png" alt="Shellye"></center>
 
