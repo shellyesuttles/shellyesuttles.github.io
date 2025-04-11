@@ -17,6 +17,7 @@ body {
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
+  background: #e9e1d7;
   background-color: {{ site.page-col | default: "#e9e1d7" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
