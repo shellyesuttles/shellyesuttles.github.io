@@ -8,7 +8,7 @@ title: Research
 Duncan, D., Navarro Ulloa, L. and S. Suttles. “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134.  https://doi.org/10.1002/jaa2.70006
 
 
-<center><img src="./assets/img/shellye-illustrated-small.png" alt="Shellye"></center>
+<center><img src="./assets/img/shellye-illustrated-smallest.jpg" alt="Shellye"></center>
 
 Suttles, S. and R.D. Sands. (2024). “Where there is no law: The potential global impacts of improving food consumption and reducing food waste.” Indiana Journal of Global Legal Studies. 31(2):205-228.
 
