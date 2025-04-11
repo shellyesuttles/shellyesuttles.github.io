@@ -20,10 +20,10 @@ title: Shellye Suttles
 ###############################################
 
 navbar-links:
-#  Projects:
-#    - Community: "community"
-    - Research: "research"
+   Research: "research"
 #  About me: "aboutme"
+#  Miscellaneous:
+#    - Community: "community"
 
 
 ################
