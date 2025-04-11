@@ -11,7 +11,6 @@ title: Research
 ### My Publications
 Duncan, D., Navarro, L. and S. Suttles. (2025). “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134.  https://doi.org/10.1002/jaa2.70006
 
-<br/>
 <center>
 <img src="/assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
 </center>
@@ -41,7 +40,7 @@ Walters, L., Wade, T. and S. Suttles. (2020). “Food and Agricultural Transport
 Fernhaber, S., Wada, T., Napier, P. and S. Suttles. (2019). “Engaging Diverse Community Stakeholders to Co-create Solutions in Food Deserts: A Design-thinking Approach.” Journal of Public Affairs. 19(3): August 2019.
 
 <center>
-<img src="/assets/img/mushroom003_small.png" alt="Mushroom and equation">
+<img src="/assets/img/mushroom003_smallest.png" alt="Mushroom and equation">
 </center>
 
 Sands, R., Malcolm, S., Suttles, S., and E. Marshall. (2017). “Dedicated Energy Crops and Competition for Agricultural Land.” USDA Economic Research Service. Economic Research Report No. 223 (ERR-223). 66 pp, January 2017.
