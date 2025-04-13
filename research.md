@@ -2,9 +2,9 @@
 layout: researchpage
 title: Research
 ---
-
+<font color="#164a63">
 <center>I'm Shellye. I study food and agriculture.</center>
-
+</font>
 
 <br/>
 
