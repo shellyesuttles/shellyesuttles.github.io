@@ -10,7 +10,6 @@ title: Research
 
 
 ### My Publications
-<font color="#164a63">
 Duncan, D., Navarro, L. and S. Suttles. (2025). “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134. [DOI](https://doi.org/10.1002/jaa2.70006)
 
 <center>
@@ -61,4 +60,3 @@ Clark, S.A. and M.I. Marshall. (2010). "Women, goal orientation and success: A f
 
 Marshall, M.I., Quagrainie, K. and S. Clark. (2010). “Aquaculture Small Business Startup Kit.” EC-757-W. Department of Agricultural Economics, Purdue University. West Lafayette, IN, USA.
 
-</font>
