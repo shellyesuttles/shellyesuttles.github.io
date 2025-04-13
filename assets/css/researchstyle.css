@@ -38,19 +38,19 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
   font-size: 2.25rem;
-  color: {{ site.text-col | default: "#164a63"}};
+  color: "#164a63";
 }
 h2 {
   font-size: 1.875rem;
-  color: {{ site.text-col | default: "#164a63"}};
+  color: "#164a63";
 }
 h3 {
   font-size: 1.5rem;
-  color: {{ site.text-col | default: "#164a63"}};
+  color: "#164a63";
 }
 h4 {
   font-size: 1.125rem;
-  color: {{ site.text-col | default: "#164a63"}};
+  color: "#164a63";
 }
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
@@ -92,12 +92,12 @@ hr.small {
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  background-color: {{ site.hover-col | default: "#164a63" }};
 }
 ::selection {
   color: #fff;
   text-shadow: none;
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  background-color: {{ site.hover-col | default: "#164a63" }};
 }
 img::selection {
   color: #fff;
@@ -680,7 +680,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 6.25rem 0;
-  color: #FFF;
+  color: #164a63;
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
