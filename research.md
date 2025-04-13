@@ -40,7 +40,7 @@ Walters, L., Wade, T. and S. Suttles. (2020). “Food and Agricultural Transport
 Fernhaber, S., Wada, T., Napier, P. and S. Suttles. (2019). “Engaging Diverse Community Stakeholders to Co-create Solutions in Food Deserts: A Design-thinking Approach.” Journal of Public Affairs. 19(3): August 2019.
 
 <center>
-<img src="/assets/img/twomushroom001.png" alt="Two mushrooms and equation">
+<img src="/assets/img/twomushroom002_small.png" alt="Two mushrooms and equation">
 </center>
 
 Sands, R., Malcolm, S., Suttles, S., and E. Marshall. (2017). “Dedicated Energy Crops and Competition for Agricultural Land.” USDA Economic Research Service. Economic Research Report No. 223 (ERR-223). 66 pp, January 2017.
