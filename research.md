@@ -2,7 +2,7 @@
 layout: researchpage
 title: Research
 ---
-<font color="#164a63">
+
 <center>I'm Shellye. I study food and agriculture.</center>
 
 
@@ -10,6 +10,7 @@ title: Research
 
 
 ### My Publications
+<font color="#164a63">
 Duncan, D., Navarro, L. and S. Suttles. (2025). “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134. [DOI](https://doi.org/10.1002/jaa2.70006)
 
 <center>
