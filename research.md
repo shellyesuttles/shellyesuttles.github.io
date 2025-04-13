@@ -2,6 +2,7 @@
 layout: researchpage
 title: Research
 ---
+<font color="#164a63">
 <center>I'm Shellye. I study food and agriculture.</center>
 
 
@@ -58,3 +59,5 @@ Martinez, S., Hand, M. Da Pra, M., Pollack, S., Ralston, K., Smith, T., Vogel, S
 Clark, S.A. and M.I. Marshall. (2010). "Women, goal orientation and success: A family business perspective." United States Association for Small Business and Entrepreneurship. Nashville, TN. USASBE, Nashville, 2010. 1193-1214.
 
 Marshall, M.I., Quagrainie, K. and S. Clark. (2010). “Aquaculture Small Business Startup Kit.” EC-757-W. Department of Agricultural Economics, Purdue University. West Lafayette, IN, USA.
+
+</font>
