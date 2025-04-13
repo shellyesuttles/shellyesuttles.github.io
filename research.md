@@ -28,7 +28,7 @@ Babb, A.M., Suttles, S.A., Daellenbach, I., DuPilka, J.H., and D.C. Knudsen. (20
 
 Biggs, H., Suttles, S. and S. Bardzell. (2023). “Redlining Maps and Terrains of Sustainability: Interdisciplinary Mapping of Racialized Redlining to Present-Day Sustainability Agendas in HCI.” CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. April 2023. Article No.: 141. 1–18. [DOI](https://doi.org/10.1145/3544548.3581491)
 
-Baldos, U.L.C., Chepeliev, M., Cultice, B., Huber, M., Meng, S., Ruane, A.C., Suttles, S. & D. van der Mensbrugghe. (2023). “Global-to-local-to-global interactions and climate change.” Environmental Research Letters. 18(5), 053002. [DOI](https://doi.org/10.1088/1748-9326/acc95c)
+Baldos, U.L.C., Chepeliev, M., Cultice, B., Huber, M., Meng, S., Ruane, A.C., Suttles, S. and D. van der Mensbrugghe. (2023). “Global-to-local-to-global interactions and climate change.” Environmental Research Letters. 18(5), 053002. [DOI](https://doi.org/10.1088/1748-9326/acc95c)
 
 Sands, R. and S. Suttles. (2022). “World Agricultural Baseline Scenarios through 2050.”  Applied Economic Perspectives and Policy. July 2022. [DOI](https://doi.org/10.1002/aepp.13309)
 
@@ -52,7 +52,7 @@ Hitaj, C. and S. Suttles. (2016). “Trends in U.S. Agriculture’s Consumption 
 
 Low, S.A., Adalja, A., Beaulieu, E., Key, N., Martinez, S., Melton, A., Perez, A., Ralston, K., Stewart, H., Suttles, S., Vogel, S. and B.B.R. Jablonski. (2015). “Trends in U.S. Local and Regional Food Systems.” USDA Economic Research Service. Administrative Publication No. 68 (AP-068). 89 pp, January 2015.
 
-Suttles, S.A., Tyner, W.E., Shively, G., Sands, R.D. and B. Sohngen. (2014). “Economic Effects of Bioenergy Policy in the United States and Europe: A General Equilibrium Approach Focusing on Forest Biomass.” Renewable Energy, 69. 428-436. 2014.
+Suttles, S.A., Tyner, W.E., Shively, G., Sands, R.D. and B. Sohngen. (2014). “Economic Effects of Bioenergy Policy in the United States and Europe: A General Equilibrium Approach Focusing on Forest Biomass.” Renewable Energy, 69:428-436.
 
 Martinez, S., Hand, M. Da Pra, M., Pollack, S., Ralston, K., Smith, T., Vogel, S., Clark, S., Lohr, L., Low, S. and C. Newman. (2010). "Local Food Systems: Concepts, Impacts, and Issues." USDA Economic Research Service. Economic Research Report No. 97 (ERR-97). 87 pp, May 2010.
 
