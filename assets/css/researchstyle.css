@@ -22,7 +22,7 @@ body {
   background-attachment: fixed;
   {% endif %}
   overflow-wrap: break-word;
-  color: {{ site.text-col | default: "#164a63" }};
+  color: "#164a63";
   background: #e9e1d7;
   brand-color: #e9e1d7;
 }
@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'IM Fell DW Pica', serif;
   font-weight: 800;
   line-height: 1.1;
-  color: {{ site.text-col | default: "#164a63"}};
+  color: "#164a63";
 }
 h1 {
   font-size: 2.25rem;
