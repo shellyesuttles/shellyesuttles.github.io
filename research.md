@@ -18,9 +18,9 @@ Duncan, D., Navarro, L. and S. Suttles. (2025). “The Role of the Charitable Fo
 <img src="/assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
 </center>
 
-Suttles, S. and R.D. Sands. (2024). “Where there is no law: The potential global impacts of improving food consumption and reducing food waste.” Indiana Journal of Global Legal Studies. 31(2):205-228. [URL](https://muse.jhu.edu/pub/3/article/949740)
-
 Suttles, S., Wade, T., and L. Walters. (2025). “The Potential for Increased Emissions due to the Electronic Logging Device Mandate.” Applied Economic Perspectives and Policy. 2025(47):354–371. [DOI](https://doi.org/10.1002/aepp.13469)
+
+Suttles, S. and R.D. Sands. (2024). “Where there is no law: The potential global impacts of improving food consumption and reducing food waste.” Indiana Journal of Global Legal Studies. 31(2):205-228. [URL](https://muse.jhu.edu/pub/3/article/949740)
 
 Miguel Andres, U., Mansker, B.L., Suttles, S. and S.K. Naramore. (2024). “Understanding the relationship between limited food access and health outcomes of children with obesity.” Pediatric Obesity. 2024:1-11. [DOI]( https://doi.org/10.1111/ijpo.13151)
 
