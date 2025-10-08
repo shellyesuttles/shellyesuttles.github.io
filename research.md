@@ -14,11 +14,11 @@ Wang, X., Barnes, M.L., Yoder, L., Williams, C.A., Tank, J.L., Royer, T., Suttle
 
 Duncan, D., Navarro, L. and S. Suttles. (2025). “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134. [DOI](https://doi.org/10.1002/jaa2.70006)
 
+Suttles, S., Wade, T., and L. Walters. (2025). “The Potential for Increased Emissions due to the Electronic Logging Device Mandate.” Applied Economic Perspectives and Policy. 2025(47):354–371. [DOI](https://doi.org/10.1002/aepp.13469)
+
 <center>
 <img src="/assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
 </center>
-
-Suttles, S., Wade, T., and L. Walters. (2025). “The Potential for Increased Emissions due to the Electronic Logging Device Mandate.” Applied Economic Perspectives and Policy. 2025(47):354–371. [DOI](https://doi.org/10.1002/aepp.13469)
 
 Suttles, S. and R.D. Sands. (2024). “Where there is no law: The potential global impacts of improving food consumption and reducing food waste.” Indiana Journal of Global Legal Studies. 31(2):205-228. [URL](https://muse.jhu.edu/pub/3/article/949740)
 
