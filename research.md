@@ -12,6 +12,8 @@ title: Research
 ### My Publications
 Wang, X., Barnes, M.L., Yoder, L., Williams, C.A., Tank, J.L., Royer, T., Suttles, S., and K.A. Novick. (2025). “The albedo-driven climate mitigation potential of no-till management in the Midwestern U.S.” Communications Earth & Environment. 6(580). [DOI](https://doi.org/10.1038/s43247-025-02549-x)
 
+Beymer, M. R., Paolicelli, C. P., Reagan, J. J., Suttles, S. A., and Rabbitt, M. P. (2025). The Association Between Food Security and Military Satisfaction Among a Representative Sample of the Active-Duty United States Military Service Members, 2020. Military Medicine. [DOI](https://doi.org/10.1093/milmed/usaf304)
+
 Duncan, D., Navarro, L. and S. Suttles. (2025). “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134. [DOI](https://doi.org/10.1002/jaa2.70006)
 
 Suttles, S., Wade, T., and L. Walters. (2025). “The Potential for Increased Emissions due to the Electronic Logging Device Mandate.” Applied Economic Perspectives and Policy. 2025(47):354–371. [DOI](https://doi.org/10.1002/aepp.13469)
