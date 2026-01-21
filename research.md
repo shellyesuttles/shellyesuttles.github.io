@@ -16,7 +16,7 @@ Barnes, M., Suttles, S., Carman-Sweeney, E., Houser, M., Irvine, R., Mooney, S.,
 <img src="/assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
 </center>
 
-Rabbitt, M.P., Reed-Jones, M., Hales, L.J., Suttles, S., & Burke, M.P. (2025). Household food security in the United States in 2024 (Report No. ERR-358). U.S. Department of Agriculture, Economic Research Service. [URL](https://www.ers.usda.gov/publications/pub-details?pubid=113622)
+Rabbitt, M.P., Reed-Jones, M., Hales, L.J., Suttles, S., &and M.P. Burke. (2025). Household food security in the United States in 2024. USDA Economic Research Service. Economic Research Report No. 358 (ERR-358). [URL](https://www.ers.usda.gov/publications/pub-details?pubid=113622)
 
 Currie, T.L., Crawford, C., Deuster, P.A., Lindsey, A.T., Rittenhouse, M., Kirkpatrick, K., Robinson, D., Troncoso, M.R., McCarthy, M., Paolicelli, C., Turay, M., McConville, M., Suttles, S., Rabbitt, M.P., Adler, A.B., and J.M. Scott. (2025). “Leader-Inspired Nutrition: A Framework for Promoting Healthy Nutrition Behaviors and a Nutritionally Fueled and Fit Military Force.” Nutrients. 17(3835). [DOI](https://doi.org/10.3390/nu17243835)
 
