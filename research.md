@@ -10,6 +10,16 @@ title: Research
 
 
 ### My Publications
+Barnes, M., Suttles, S., Carman-Sweeney, E., Houser, M., Irvine, R., Mooney, S., Novick, K., Pruitt, A., Royer, T., Seibert, K., Tank, J., Wang, X., and L. Yoder. “Cover Crops as Nature-Based Climate Solutions in the Midwestern US: Potential Benefits, Knowledge Gaps, and Opportunities for Transdisciplinary Work.” Earth’s Future. 14(1): January 2026. [DOI](https://doi.org/10.1029/2024EF005691)
+
+<center>
+<img src="/assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
+</center>
+
+Rabbitt, M.P., Reed-Jones, M., Hales, L.J., Suttles, S., & Burke, M.P. (2025). Household food security in the United States in 2024 (Report No. ERR-358). U.S. Department of Agriculture, Economic Research Service. [URL](https://www.ers.usda.gov/publications/pub-details?pubid=113622)
+
+Currie, T.L., Crawford, C., Deuster, P.A., Lindsey, A.T., Rittenhouse, M., Kirkpatrick, K., Robinson, D., Troncoso, M.R., McCarthy, M., Paolicelli, C., Turay, M., McConville, M., Suttles, S., Rabbitt, M.P., Adler, A.B., and J.M. Scott. (2025). “Leader-Inspired Nutrition: A Framework for Promoting Healthy Nutrition Behaviors and a Nutritionally Fueled and Fit Military Force.” Nutrients. 17(3835). [DOI](https://doi.org/10.3390/nu17243835)
+
 Wang, X., Barnes, M.L., Yoder, L., Williams, C.A., Tank, J.L., Royer, T., Suttles, S., and K.A. Novick. (2025). “The albedo-driven climate mitigation potential of no-till management in the Midwestern U.S.” Communications Earth & Environment. 6(580). [DOI](https://doi.org/10.1038/s43247-025-02549-x)
 
 Beymer, M. R., Paolicelli, C. P., Reagan, J. J., Suttles, S. A., and Rabbitt, M. P. (2025). "The Association Between Food Security and Military Satisfaction Among a Representative Sample of the Active-Duty United States Military Service Members, 2020." Military Medicine. [DOI](https://doi.org/10.1093/milmed/usaf304)
@@ -17,10 +27,6 @@ Beymer, M. R., Paolicelli, C. P., Reagan, J. J., Suttles, S. A., and Rabbitt, M.
 Duncan, D., Navarro, L. and S. Suttles. (2025). “The Role of the Charitable Food Assistance During Times of Crisis.” Journal of the Agricultural and Applied Economics Association. 4(1):118-134. [DOI](https://doi.org/10.1002/jaa2.70006)
 
 Suttles, S., Wade, T., and L. Walters. (2025). “The Potential for Increased Emissions due to the Electronic Logging Device Mandate.” Applied Economic Perspectives and Policy. 2025(47):354–371. [DOI](https://doi.org/10.1002/aepp.13469)
-
-<center>
-<img src="/assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
-</center>
 
 Suttles, S. and R.D. Sands. (2024). “Where there is no law: The potential global impacts of improving food consumption and reducing food waste.” Indiana Journal of Global Legal Studies. 31(2):205-228. [URL](https://muse.jhu.edu/pub/3/article/949740)
 
