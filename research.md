@@ -54,19 +54,19 @@ Fernhaber, S., Wada, T., Napier, P. and S. Suttles. (2019). “Engaging Diverse 
 <img src="/assets/img/twomushroom002_small.png" alt="Two mushrooms and equation">
 </center>
 
-Sands, R., Malcolm, S., Suttles, S., and E. Marshall. (2017). “Dedicated Energy Crops and Competition for Agricultural Land.” USDA Economic Research Service. Economic Research Report No. 223 (ERR-223). 66 pp, January 2017.
+Sands, R., Malcolm, S., Suttles, S., and E. Marshall. (2017). “Dedicated Energy Crops and Competition for Agricultural Land.” USDA Economic Research Service. Economic Research Report No. 223 (ERR-223). 66 pp, January 2017. [URL](https://www.ers.usda.gov/webdocs/publications/81903/err-223.pdf?v=7736)
 
 Sands, R.D. and S.A. Suttles. (2017). “Climate Economics, Bioenergy, and Land Use in a General Equilibrium Framework.” WSPC Reference of Natural Resources and Environmental Policy: Volume 4 – Computable General Equilibrium Models. Ed. Ariel Dinar. Singapore: World Scientific Publishing Company.
 
-Hitaj, C. and S. Suttles. (2016). “Trends in U.S. Agriculture’s Consumption and Production of Energy: Renewable Power, Shale Energy, and Cellulosic Biomass.” USDA Economic Research Service. Economic Information Bulletin No. 159 (EIB-159). 53 pp, August 2016.
+Hitaj, C. and S. Suttles. (2016). “Trends in U.S. Agriculture’s Consumption and Production of Energy: Renewable Power, Shale Energy, and Cellulosic Biomass.” USDA Economic Research Service. Economic Information Bulletin No. 159 (EIB-159). 53 pp, August 2016. [URL](https://www.ers.usda.gov/webdocs/publications/74658/60128_eib159.pdf?v=9887.8)
 
-Low, S.A., Adalja, A., Beaulieu, E., Key, N., Martinez, S., Melton, A., Perez, A., Ralston, K., Stewart, H., Suttles, S., Vogel, S. and B.B.R. Jablonski. (2015). “Trends in U.S. Local and Regional Food Systems.” USDA Economic Research Service. Administrative Publication No. 68 (AP-068). 89 pp, January 2015.
+Low, S.A., Adalja, A., Beaulieu, E., Key, N., Martinez, S., Melton, A., Perez, A., Ralston, K., Stewart, H., Suttles, S., Vogel, S. and B.B.R. Jablonski. (2015). “Trends in U.S. Local and Regional Food Systems.” USDA Economic Research Service. Administrative Publication No. 68 (AP-068). 89 pp, January 2015. [URL](https://www.ers.usda.gov/webdocs/publications/42805/51173_ap068.pdf?v=8309.9)
 
-Suttles, S.A., Tyner, W.E., Shively, G., Sands, R.D. and B. Sohngen. (2014). “Economic Effects of Bioenergy Policy in the United States and Europe: A General Equilibrium Approach Focusing on Forest Biomass.” Renewable Energy, 69:428-436.
+Suttles, S.A., Tyner, W.E., Shively, G., Sands, R.D. and B. Sohngen. (2014). “Economic Effects of Bioenergy Policy in the United States and Europe: A General Equilibrium Approach Focusing on Forest Biomass.” Renewable Energy, 69:428-436. [DOI](https://doi.org/10.1016/j.renene.2014.03.067)
 
-Martinez, S., Hand, M. Da Pra, M., Pollack, S., Ralston, K., Smith, T., Vogel, S., Clark, S., Lohr, L., Low, S. and C. Newman. (2010). "Local Food Systems: Concepts, Impacts, and Issues." USDA Economic Research Service. Economic Research Report No. 97 (ERR-97). 87 pp, May 2010.
+Martinez, S., Hand, M. Da Pra, M., Pollack, S., Ralston, K., Smith, T., Vogel, S., Clark, S., Lohr, L., Low, S. and C. Newman. (2010). "Local Food Systems: Concepts, Impacts, and Issues." USDA Economic Research Service. Economic Research Report No. 97 (ERR-97). 87 pp, May 2010. [URL](https://www.ers.usda.gov/webdocs/publications/46393/7054_err97_1_.pdf)
 
 Clark, S.A. and M.I. Marshall. (2010). "Women, goal orientation and success: A family business perspective." United States Association for Small Business and Entrepreneurship. Nashville, TN. USASBE, Nashville, 2010. 1193-1214.
 
-Marshall, M.I., Quagrainie, K. and S. Clark. (2010). “Aquaculture Small Business Startup Kit.” EC-757-W. Department of Agricultural Economics, Purdue University. West Lafayette, IN, USA.
+Marshall, M.I., Quagrainie, K. and S. Clark. (2010). “Aquaculture Small Business Startup Kit.” EC-757-W. Department of Agricultural Economics, Purdue University. West Lafayette, IN, USA. [URL]()
 
