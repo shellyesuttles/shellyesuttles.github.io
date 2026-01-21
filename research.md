@@ -10,7 +10,7 @@ title: Research
 
 
 ### My Publications
-Barnes, M., Suttles, S., Carman-Sweeney, E., Houser, M., Irvine, R., Mooney, S., Novick, K., Pruitt, A., Royer, T., Seibert, K., Tank, J., Wang, X., and L. Yoder. “Cover Crops as Nature-Based Climate Solutions in the Midwestern US: Potential Benefits, Knowledge Gaps, and Opportunities for Transdisciplinary Work.” Earth’s Future. 14(1): January 2026. [DOI](https://doi.org/10.1029/2024EF005691)
+Barnes, M., Suttles, S., Carman-Sweeney, E., Houser, M., Irvine, R., Mooney, S., Novick, K., Pruitt, A., Royer, T., Seibert, K., Tank, J., Wang, X., and L. Yoder. (2026). “Cover Crops as Nature-Based Climate Solutions in the Midwestern US: Potential Benefits, Knowledge Gaps, and Opportunities for Transdisciplinary Work.” Earth’s Future. 14(1): January 2026. [DOI](https://doi.org/10.1029/2024EF005691)
 
 <center>
 <img src="/assets/img/shellye-illustrated-smallest.jpg" alt="Shellye">
